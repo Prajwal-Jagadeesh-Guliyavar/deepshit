@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folder
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Ignore pipenv files (if used)
+Pipfile.lock
+
+# PyCharm settings folder (if used)
+.idea/
+
+# VSCode settings folder (if used)
+.vscode/
