@@ -1,1 +1,14 @@
 Flask
+Flask-SQLAlchemy
+SQLAlchemy
+Flask-Migrate
+psycopg2-binary
+python-dotenv
+celery
+redis
+flask_CORS
+PyJWT
+flask_jwt_extended
+pyPDF2
+pdfplumber
+typing
